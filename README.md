@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Phuc</h1>
-<h3 align="center">I'm a software engineering student at the Industrial University of Ho Chi Minh City</h3>
+<h3 align="center"I'm a software engineering student at the Industrial University of Ho Chi Minh City</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -29,7 +30,7 @@
   </a> 
 </p>
 
-## Skills:
+## 💻 Skills:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -38,7 +39,7 @@
   <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
 </p>
 
-## Activities:
+## ⚡Activities:
 
 <table style="width:100%;">
   <tr>
