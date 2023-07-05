@@ -1,16 +1,15 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 🙋‍♂️, I'm Hoang Phuc</h1>
 <p align="center"
+  
   <h3 align="center">💻 I'm a software engineering student at the Industrial University of Ho Chi Minh City </h3>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphucktpm&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 </p>
 
 
 <br />
 
 ## 📫 How to reach me:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphucktpm&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100075004677646" alt="Facebook">
@@ -19,7 +18,6 @@
   <a href="https://github.com/hoangphucktpm" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  
 </p>
 
 ## Skills:
