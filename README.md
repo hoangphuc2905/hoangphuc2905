@@ -1,10 +1,19 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 🙋‍♂️, I'm Hoang Phuc</h1>
-<p align="center"
-  
-  <h3 align="center">💻 I'm a software engineering student at the Industrial University of Ho Chi Minh City </h3>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphucktpm&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-</p>
+<h1 align="center">Hi 👋, I'm Hoang Phuc</h1>
+<h3 align="center">I'm a software engineering student at the Industrial University of Ho Chi Minh City</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphucktpm&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+- 🔭 I am currently in **Ho Chi Minh City**
+
+- 🌱 I’m currently learning **Software Engineering**
+
+- 💬 Currently a student **3rd year**
+
+- 📫 How to reach me **hoangphuchm11@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 
 <br />
@@ -44,5 +53,10 @@
     </td>
   </tr>
 </table>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
 
 
