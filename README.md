@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Currently a student **3rd year**
+- 💬 Currently a student **4rd year**
 
 - 📫 How to reach me **hoangphuchm11@gmail.com**
 
