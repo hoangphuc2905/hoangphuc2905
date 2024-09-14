@@ -32,17 +32,38 @@
 
 ## 💻 Skills:
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql.png" alt="mysql"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/spring.png" alt="spring"/>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql.png" alt="mysql"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/spring.png" alt="spring"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
+  </a>
 </p>
+
 
 
 
