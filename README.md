@@ -35,14 +35,18 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql-server.png" alt="sql-server"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/office-2019.png" alt="office"/>
 </p>
+
 
 
 ## ⚡Activities:
