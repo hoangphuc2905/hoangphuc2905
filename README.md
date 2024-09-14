@@ -41,16 +41,10 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql-server.png" alt="sql-server"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-office.png" alt="office"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c.png" alt="c"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/illustrator.png" alt="illustrator"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql.png" alt="mysql"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/photoshop.png" alt="photoshop"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/spring.png" alt="spring"/>
 </p>
 
