@@ -12,7 +12,7 @@
 
 - 💬 Currently a student **4rd year**
 
-- 📫 How to reach me **hoangphuchm11@gmail.com**
+- 📫 How to reach me **phuchh.dev@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
