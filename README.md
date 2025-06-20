@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hoang Phuc</h1>
-<h3 align="center">I'm a software engineering student at the Industrial University of Ho Chi Minh City</h3>
+<h3 align="center">A passionate Frontend Web Developer from Ho Chi Minh City</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hoangphuc2905&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphuc2905&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-- 🔭 I am currently based in Ho Chi Minh City
-
-- 🎓 I recently graduated with a degree in Software Engineering
-
-- 💬 Former 4th-year student at Industrial University of Ho Chi Minh City
-
-- 📫 Reach me at phuchh.dev@gmail.com
-
-- ⚡ Passionate about technology and coding
+- 🔭 I’m currently working as a **Frontend Web Developer** in Ho Chi Minh City  
+- 🎓 Graduated with a degree in **Software Engineering** from the Industrial University of Ho Chi Minh City  
+- 💬 I specialize in building responsive, user-friendly web interfaces using modern technologies  
+- 📫 Reach me at **phuchh.dev@gmail.com**  
+- ⚡ Passionate about **technology and coding**
 
 <br />
 
