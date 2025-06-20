@@ -6,16 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphuc2905&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 🔭 I am currently in **Ho Chi Minh City**
+- 🔭 I am currently based in Ho Chi Minh City
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🎓 I recently graduated with a degree in Software Engineering
 
-- 💬 Currently a student **4rd year**
+- 💬 Former 4th-year student at Industrial University of Ho Chi Minh City
 
-- 📫 How to reach me **phuchh.dev@gmail.com**
+- 📫 Reach me at phuchh.dev@gmail.com
 
-- ⚡ Fun fact **I am Funny**
-
+- ⚡ Passionate about technology and coding
 
 <br />
 
@@ -26,43 +25,75 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/hoangphuc2905" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" />
   </a> 
+  <a href="https://www.linkedin.com/in/huỳnh-hoàng-phúc-754a50258" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  </a>
 </p>
 
 ## 💻 Skills:
 <p align="center">
-  <a href="https://www.java.com/en/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <!-- Frontend -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="ReactJS" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
+  </a>
+
+  <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="NodeJS" />
   </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  </a>
+
+  <!-- Database -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql.png" alt="mysql"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql.png" alt="MySQL" />
   </a>
-  <a href="https://spring.io/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/spring.png" alt="spring"/>
+
+  <!-- Tools -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" />
   </a>
   <a href="https://www.canva.com/" target="_blank">
-    <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="canva-app"/>
+    <img width="58" height="58" src="https://img.icons8.com/clouds/100/canva-app.png" alt="Canva" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office" />
   </a>
 </p>
+
 
 
 
